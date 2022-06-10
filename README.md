@@ -1,4 +1,4 @@
-# cursed
+# curse
 
 simple cursed text generator for the command line.
 
