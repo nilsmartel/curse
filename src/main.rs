@@ -49,6 +49,7 @@ fn main() {
             }
         }
 
+        line.clear();
         println!();
     }
 }
